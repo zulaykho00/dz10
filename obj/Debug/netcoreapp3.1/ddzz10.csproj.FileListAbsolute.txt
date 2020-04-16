@@ -1,0 +1,13 @@
+C:\projects\ddzz10\obj\Debug\netcoreapp3.1\ddzz10.csprojAssemblyReference.cache
+C:\projects\ddzz10\obj\Debug\netcoreapp3.1\ddzz10.csproj.CoreCompileInputs.cache
+C:\projects\ddzz10\obj\Debug\netcoreapp3.1\ddzz10.AssemblyInfoInputs.cache
+C:\projects\ddzz10\obj\Debug\netcoreapp3.1\ddzz10.AssemblyInfo.cs
+C:\projects\ddzz10\bin\Debug\netcoreapp3.1\ddzz10.exe
+C:\projects\ddzz10\bin\Debug\netcoreapp3.1\ddzz10.deps.json
+C:\projects\ddzz10\bin\Debug\netcoreapp3.1\ddzz10.runtimeconfig.json
+C:\projects\ddzz10\bin\Debug\netcoreapp3.1\ddzz10.runtimeconfig.dev.json
+C:\projects\ddzz10\bin\Debug\netcoreapp3.1\ddzz10.dll
+C:\projects\ddzz10\bin\Debug\netcoreapp3.1\ddzz10.pdb
+C:\projects\ddzz10\obj\Debug\netcoreapp3.1\ddzz10.dll
+C:\projects\ddzz10\obj\Debug\netcoreapp3.1\ddzz10.pdb
+C:\projects\ddzz10\obj\Debug\netcoreapp3.1\ddzz10.genruntimeconfig.cache
