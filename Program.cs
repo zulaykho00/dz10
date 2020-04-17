@@ -76,24 +76,23 @@ namespace ddzz10
             Console.WriteLine("ZADANIE#2");
             string pro="pro";
             string exp="exp";
-            string c,d;
+            string c;
             Console.WriteLine("ключ:");
-            Console.Write("pro:");
-            c=Console.ReadLine();
-            Console.Write("exp:");
-            d=Console.ReadLine();
+             c=Console.ReadLine();
+           
             if (c==pro)
             {
               Key(2);  
             }
             else
             {
-            if(c!=pro && d!=exp)
+            if(c!=pro && c!=exp)
             {
                 Key(1); 
             }
             }
-             if(d==exp)
+            
+             if(c==exp)
             {
                 Key(3); 
             }
